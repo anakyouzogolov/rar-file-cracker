@@ -2,8 +2,6 @@ import rarfile
 from rarfile import RarWrongPassword
 import random
 
-# chars = "abcdefghijklmnopqrstuvwxyz0123456789"
-# chars_list = list(chars)
 
 rarfile.UNRAR_TOOL = "C:\\Program Files\\WinRAR\\UnRaR.exe"
 
